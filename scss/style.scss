@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    cursor: pointer;
+}
+.container{
+    width: 1450px;
+    margin: 0 auto;
+
+}
+
+@import "header";
+@import "hero";
+@import "form";
+@import "phills";
+@import "info";
+@import "castle";
+@import "reccom";
+@import "jenshen";
+@import "facts";
+@import "footer"
